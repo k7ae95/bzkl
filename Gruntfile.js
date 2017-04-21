@@ -63,7 +63,7 @@ module.exports = function (grunt) {
         files: [{
           expand: true,
           flatten: true,
-          src: ['less/*.less'],
+          src: ['less/**/*.less'],
           dest: 'less/'
         }]
       },
@@ -140,7 +140,7 @@ module.exports = function (grunt) {
       },
 
       less: {
-        files: 'less/*.less',
+        files: 'less/**/*.less',
         tasks: ['buildLESS'],
         options: {
           spawn: false,
