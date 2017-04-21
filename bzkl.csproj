@@ -5,9 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="temp_k7ae95\**" />
     <Compile Remove="wwwroot\**" />
+    <Content Remove="temp_k7ae95\**" />
     <Content Remove="wwwroot\**" />
+    <EmbeddedResource Remove="temp_k7ae95\**" />
     <EmbeddedResource Remove="wwwroot\**" />
+    <None Remove="temp_k7ae95\**" />
     <None Remove="wwwroot\**" />
   </ItemGroup>
   <ItemGroup>
