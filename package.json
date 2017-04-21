@@ -1,0 +1,20 @@
+{
+  "name": "bzkl",
+  "version": "0.0.1",
+  "description": "bzkl",
+  "dependencies": {
+    "grunt": "1.0.1"
+  },
+  "devDependencies": {
+    "grunt-assemble": "^0.5.0",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-bundles": "^0.2.2",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-cssmin": "^2.0.0",
+    "grunt-contrib-htmlmin": "^2.3.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-csscomb": "^3.1.1"
+  }
+}

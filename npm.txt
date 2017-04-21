@@ -1,0 +1,10 @@
+npm install
+npm install --save-dev grunt-assemble
+npm install --save-dev grunt-autoprefixer
+npm install --save-dev grunt-bundles
+npm install --save-dev grunt-contrib-cssmin
+npm install --save-dev grunt-contrib-less
+npm install --save-dev grunt-contrib-uglify
+npm install --save-dev grunt-contrib-watch
+npm install --save-dev grunt-csscomb
+exit
