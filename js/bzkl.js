@@ -154,16 +154,16 @@
   }
 })(jQuery, window, document);
 
+function bodyOnload() {
+   var url = [
+      'https://7ydf13.blogspot.com/'
+   ];
+
+   $(url).each(function (index, value) {
+      parent.postMessage(document.body.scrollHeight, value);
+   });
+}
+
 $(document).ready(function () {
    $('.bzkl-chapter').bzkl();
-
-   $('body').load(function () {
-      var url = [
-         'https://7ydf13.blogspot.com/'
-      ];
-
-      $(url).each(function (index, value) {
-         parent.postMessage(document.body.scrollHeight, value);
-      });
-   });
 });
