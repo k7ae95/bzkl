@@ -5,8 +5,8 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('..//fonts/QXBariolRegular.eot');
-    src: local('QX Bariol Regular'), local('QXBariolRegular'), url('..//fonts/QXBariolRegular.eot?#iefix') format('embedded-opentype'), url('..//fonts/QXBariolRegular.woff2') format('woff2'), url('..//fonts/QXBariolRegular.woff') format('woff'), url('..//fonts/QXBariolRegular.ttf') format('truetype'), url('..//fonts/QXBariolRegular.svg#QXBariolRegular') format('svg');
+    src: url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/QXBariolRegular.eot');
+    src: local('QX Bariol Regular'), local('QXBariolRegular'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/QXBariolRegular.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/QXBariolRegular.woff2') format('woff2'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/QXBariolRegular.woff') format('woff'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/QXBariolRegular.ttf') format('truetype'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/QXBariolRegular.svg#QXBariolRegular') format('svg');
 }
 @font-face
 {
@@ -14,8 +14,8 @@
     font-weight: 500;
     font-style: normal;
 
-    src: url('..//fonts/SVN-Servetica-Medium.eot');
-    src: local('SVN Servetica Medium'), local('SVN-Servetica-Medium'), url('..//fonts/SVN-Servetica-Medium.eot?#iefix') format('embedded-opentype'), url('..//fonts/SVN-Servetica-Medium.woff2') format('woff2'), url('..//fonts/SVN-Servetica-Medium.woff') format('woff'), url('..//fonts/SVN-Servetica-Medium.ttf') format('truetype'), url('..//fonts/SVN-Servetica-Medium.svg#SVN-Servetica-Medium') format('svg');
+    src: url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/SVN-Servetica-Medium.eot');
+    src: local('SVN Servetica Medium'), local('SVN-Servetica-Medium'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/SVN-Servetica-Medium.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/SVN-Servetica-Medium.woff2') format('woff2'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/SVN-Servetica-Medium.woff') format('woff'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/SVN-Servetica-Medium.ttf') format('truetype'), url('https://cdn.rawgit.com/k7ae95/bzkl/r001/fonts/SVN-Servetica-Medium.svg#SVN-Servetica-Medium') format('svg');
 }
 .bzkl-chapter
 {
